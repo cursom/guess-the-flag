@@ -1,0 +1,674 @@
+{
+    "AD": {
+        "name": "andorra",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/flag_of_andorra.svg/1920px-flag_of_andorra.svg.png",
+        "name_translations": {
+            "en": "andorra",
+            "hu": "andorra",
+            "es": "andorra",
+            "fr": "andorre",
+            "de": "andorra",
+            "it": "andorra",
+            "pt": "andorra",
+            "pl": "andora"
+        }
+    },
+    "AL": {
+        "name": "albania",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/flag_of_albania.svg/1920px-flag_of_albania.svg.png",
+        "name_translations": {
+            "en": "albania",
+            "hu": "albania",
+            "es": "albania",
+            "fr": "albanie",
+            "de": "albanien",
+            "it": "albania",
+            "pt": "albania",
+            "pl": "albania"
+        }
+    },
+    "AM": {
+        "name": "armenia",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/flag_of_armenia.svg/1920px-flag_of_armenia.svg.png",
+        "name_translations": {
+            "en": "armenia",
+            "hu": "ormenyorszag",
+            "es": "armenia",
+            "fr": "armenie",
+            "de": "armenien",
+            "it": "armenia",
+            "pt": "armenia",
+            "pl": "armenia"
+        }
+    },
+    "AT": {
+        "name": "austria",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/flag_of_austria.svg/1920px-flag_of_austria.svg.png",
+        "name_translations": {
+            "en": "austria",
+            "hu": "ausztria",
+            "es": "austria",
+            "fr": "autriche",
+            "de": "osterreich",
+            "it": "austria",
+            "pt": "austria",
+            "pl": "austria"
+        }
+    },
+    "AZ": {
+        "name": "azerbaijan",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/flag_of_azerbaijan.svg/1920px-flag_of_azerbaijan.svg.png",
+        "name_translations": {
+            "en": "azerbaijan",
+            "hu": "azerbajdzsan",
+            "es": "azerbaiyan",
+            "fr": "azerbaidjan",
+            "de": "aserbaidschan",
+            "it": "azerbaigian",
+            "pt": "azerbeijao",
+            "pl": "azerbejdzan"
+        }
+    },
+    "BY": {
+        "name": "belarus",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/flag_of_belarus.svg/1920px-flag_of_belarus.svg.png",
+        "name_translations": {
+            "en": "belarus",
+            "hu": "feheroroszorszag",
+            "es": "bielorrusia",
+            "fr": "belarus",
+            "de": "weissrussland",
+            "it": "bielorussia",
+            "pt": "bielorrussia",
+            "pl": "bialorus"
+        }
+    },
+    "BE": {
+        "name": "belgium",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/flag_of_belgium.svg/1920px-flag_of_belgium.svg.png",
+        "name_translations": {
+            "en": "belgium",
+            "hu": "belgium",
+            "es": "belgica",
+            "fr": "belgique",
+            "de": "belgien",
+            "it": "belgio",
+            "pt": "belgica",
+            "pl": "belgia"
+        }
+    },
+    "BA": {
+        "name": "bosnia and herzegovina",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/flag_of_bosnia_and_herzegovina.svg/1920px-flag_of_bosnia_and_herzegovina.svg.png",
+        "name_translations": {
+            "en": "bosnia and herzegovina",
+            "hu": "bosznia-hercegovina",
+            "es": "bosnia y herzegovina",
+            "fr": "bosnie-herzegovine",
+            "de": "bosnien und herzegowina",
+            "it": "bosnia ed erzegovina",
+            "pt": "bosnia e herzegovina",
+            "pl": "bosnia i hercegowina"
+        }
+    },
+    "BG": {
+        "name": "bulgaria",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/flag_of_bulgaria.svg/1920px-flag_of_bulgaria.svg.png",
+        "name_translations": {
+            "en": "bulgaria",
+            "hu": "bulgaria",
+            "es": "bulgaria",
+            "fr": "bulgarie",
+            "de": "bulgarien",
+            "it": "bulgaria",
+            "pt": "bulgaria",
+            "pl": "bulgaria"
+        }
+    },
+    "HR": {
+        "name": "croatia",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/flag_of_croatia.svg/1920px-flag_of_croatia.svg.png",
+        "name_translations": {
+            "en": "croatia",
+            "hu": "horvatorszag",
+            "es": "croacia",
+            "fr": "croatie",
+            "de": "kroatien",
+            "it": "croazia",
+            "pt": "croacia",
+            "pl": "chorwacja"
+        }
+    },
+    "CY": {
+        "name": "cyprus",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/flag_of_cyprus.svg/1920px-flag_of_cyprus.svg.png",
+        "name_translations": {
+            "en": "cyprus",
+            "hu": "ciprus",
+            "es": "chipre",
+            "fr": "chypre",
+            "de": "zypern",
+            "it": "cipro",
+            "pt": "chipre",
+            "pl": "cypr"
+        }
+    },
+    "CZ": {
+        "name": "czech republic",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/flag_of_the_czech_republic.svg/1920px-flag_of_the_czech_republic.svg.png",
+        "name_translations": {
+            "en": "czech republic",
+            "hu": "csehorszag",
+            "es": "republica checa",
+            "fr": "republique tcheque",
+            "de": "tschechien",
+            "it": "repubblica ceca",
+            "pt": "republica checa",
+            "pl": "czechy"
+        }
+    },
+    "DK": {
+        "name": "denmark",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/flag_of_denmark.svg/1920px-flag_of_denmark.svg.png",
+        "name_translations": {
+            "en": "denmark",
+            "hu": "dania",
+            "es": "dinamarca",
+            "fr": "danemark",
+            "de": "danemark",
+            "it": "danimarca",
+            "pt": "dinamarca",
+            "pl": "dania"
+        }
+    },
+    "EE": {
+        "name": "estonia",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/flag_of_estonia.svg/1920px-flag_of_estonia.svg.png",
+        "name_translations": {
+            "en": "estonia",
+            "hu": "esztorszag",
+            "es": "estonia",
+            "fr": "estonie",
+            "de": "estland",
+            "it": "estonia",
+            "pt": "estonia",
+            "pl": "estonia"
+        }
+    },
+    "FI": {
+        "name": "finland",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/flag_of_finland.svg/1920px-flag_of_finland.svg.png",
+        "name_translations": {
+            "en": "finland",
+            "hu": "finnorszag",
+            "es": "finlandia",
+            "fr": "finlande",
+            "de": "finnland",
+            "it": "finlandia",
+            "pt": "finlandia",
+            "pl": "finlandia"
+        }
+    },
+    "FR": {
+        "name": "france",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/flag_of_france.svg/1920px-flag_of_france.svg.png",
+        "name_translations": {
+            "en": "france",
+            "hu": "franciaorszag",
+            "es": "francia",
+            "fr": "france",
+            "de": "frankreich",
+            "it": "francia",
+            "pt": "franca",
+            "pl": "francja"
+        }
+    },
+    "GE": {
+        "name": "georgia",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/flag_of_georgia.svg/1920px-flag_of_georgia.svg.png",
+        "name_translations": {
+            "en": "georgia",
+            "hu": "gruzia",
+            "es": "georgia",
+            "fr": "georgie",
+            "de": "georgien",
+            "it": "georgia",
+            "pt": "georgia",
+            "pl": "gruzja"
+        }
+    },
+    "DE": {
+        "name": "germany",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/flag_of_germany.svg/1920px-flag_of_germany.svg.png",
+        "name_translations": {
+            "en": "germany",
+            "hu": "nemetorszag",
+            "es": "alemania",
+            "fr": "allemagne",
+            "de": "deutschland",
+            "it": "germania",
+            "pt": "alemanha",
+            "pl": "niemcy"
+        }
+    },
+    "GR": {
+        "name": "greece",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/flag_of_greece.svg/1920px-flag_of_greece.svg.png",
+        "name_translations": {
+            "en": "greece",
+            "hu": "gorogorszag",
+            "es": "grecia",
+            "fr": "grece",
+            "de": "griechenland",
+            "it": "grecia",
+            "pt": "grecia",
+            "pl": "grecja"
+        }
+    },
+    "HU": {
+        "name": "hungary",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/flag_of_hungary.svg/1920px-flag_of_hungary.svg.png",
+        "name_translations": {
+            "en": "hungary",
+            "hu": "magyarorszag",
+            "es": "hungria",
+            "fr": "hongrie",
+            "de": "ungarn",
+            "it": "ungheria",
+            "pt": "hungria",
+            "pl": "wegry"
+        }
+    },
+    "IS": {
+        "name": "iceland",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/flag_of_iceland.svg/1920px-flag_of_iceland.svg.png",
+        "name_translations": {
+            "en": "iceland",
+            "hu": "izland",
+            "es": "islandia",
+            "fr": "islande",
+            "de": "island",
+            "it": "islanda",
+            "pt": "islandia",
+            "pl": "islandia"
+        }
+    },
+    "IE": {
+        "name": "ireland",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/flag_of_ireland.svg/1920px-flag_of_ireland.svg.png",
+        "name_translations": {
+            "en": "ireland",
+            "hu": "irorszag",
+            "es": "irlanda",
+            "fr": "irlande",
+            "de": "irland",
+            "it": "irlanda",
+            "pt": "irlanda",
+            "pl": "irlandia"
+        }
+    },
+    "IT": {
+        "name": "italy",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/flag_of_italy.svg/1920px-flag_of_italy.svg.png",
+        "name_translations": {
+            "en": "italy",
+            "hu": "olaszorszag",
+            "es": "italia",
+            "fr": "italie",
+            "de": "italien",
+            "it": "italia",
+            "pt": "italia",
+            "pl": "wlochy"
+        }
+    },
+    "KZ": {
+        "name": "kazakhstan",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/flag_of_kazakhstan.svg/1920px-flag_of_kazakhstan.svg.png",
+        "name_translations": {
+            "en": "kazakhstan",
+            "hu": "kazahsztan",
+            "es": "kazajistan",
+            "fr": "kazakhstan",
+            "de": "kasachstan",
+            "it": "kazakistan",
+            "pt": "cazaquistao",
+            "pl": "kazachstan"
+        }
+    },
+    "XK": {
+        "name": "kosovo",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/flag_of_kosovo.svg/1920px-flag_of_kosovo.svg.png",
+        "name_translations": {
+            "en": "kosovo",
+            "hu": "koszovo",
+            "es": "kosovo",
+            "fr": "kosovo",
+            "de": "kosovo",
+            "it": "kosovo",
+            "pt": "kosovo",
+            "pl": "kosowo"
+        }
+    },
+    "LV": {
+        "name": "latvia",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/flag_of_latvia.svg/1920px-flag_of_latvia.svg.png",
+        "name_translations": {
+            "en": "latvia",
+            "hu": "lettorszag",
+            "es": "letonia",
+            "fr": "lettonie",
+            "de": "lettland",
+            "it": "lettonia",
+            "pt": "letonia",
+            "pl": "lotwa"
+        }
+    },
+    "LI": {
+        "name": "liechtenstein",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/flag_of_liechtenstein.svg/1920px-flag_of_liechtenstein.svg.png",
+        "name_translations": {
+            "en": "liechtenstein",
+            "hu": "liechtenstein",
+            "es": "liechtenstein",
+            "fr": "liechtenstein",
+            "de": "liechtenstein",
+            "it": "liechtenstein",
+            "pt": "liechtenstein",
+            "pl": "liechtenstein"
+        }
+    },
+    "LT": {
+        "name": "lithuania",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/flag_of_lithuania.svg/1920px-flag_of_lithuania.svg.png",
+        "name_translations": {
+            "en": "lithuania",
+            "hu": "litvania",
+            "es": "lituania",
+            "fr": "lituanie",
+            "de": "litauen",
+            "it": "lituania",
+            "pt": "lituania",
+            "pl": "litwa"
+        }
+    },
+    "LU": {
+        "name": "luxembourg",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/flag_of_luxembourg.svg/1920px-flag_of_luxembourg.svg.png",
+        "name_translations": {
+            "en": "luxembourg",
+            "hu": "luxemburg",
+            "es": "luxemburgo",
+            "fr": "luxembourg",
+            "de": "luxemburg",
+            "it": "lussemburgo",
+            "pt": "luxemburgo",
+            "pl": "luksemburg"
+        }
+    },
+    "MT": {
+        "name": "malta",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/flag_of_malta.svg/1920px-flag_of_malta.svg.png",
+        "name_translations": {
+            "en": "malta",
+            "hu": "malta",
+            "es": "malta",
+            "fr": "malte",
+            "de": "malta",
+            "it": "malta",
+            "pt": "malta",
+            "pl": "malta"
+        }
+    },
+    "MD": {
+        "name": "moldova",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/flag_of_moldova.svg/1920px-flag_of_moldova.svg.png",
+        "name_translations": {
+            "en": "moldova",
+            "hu": "moldova",
+            "es": "moldavia",
+            "fr": "moldavie",
+            "de": "moldau",
+            "it": "moldova",
+            "pt": "moldavia",
+            "pl": "moldawia"
+        }
+    },
+    "MC": {
+        "name": "monaco",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/flag_of_monaco.svg/1920px-flag_of_monaco.svg.png",
+        "name_translations": {
+            "en": "monaco",
+            "hu": "monaco",
+            "es": "monaco",
+            "fr": "monaco",
+            "de": "monaco",
+            "it": "monaco",
+            "pt": "monaco",
+            "pl": "monako"
+        }
+    },
+    "ME": {
+        "name": "montenegro",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/flag_of_montenegro.svg/1920px-flag_of_montenegro.svg.png",
+        "name_translations": {
+            "en": "montenegro",
+            "hu": "montenegro",
+            "es": "montenegro",
+            "fr": "montenegro",
+            "de": "montenegro",
+            "it": "montenegro",
+            "pt": "montenegro",
+            "pl": "czarnogora"
+        }
+    },
+    "NL": {
+        "name": "netherlands",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/flag_of_the_netherlands.svg/1920px-flag_of_the_netherlands.svg.png",
+        "name_translations": {
+            "en": "netherlands",
+            "hu": "hollandia",
+            "es": "paises bajos",
+            "fr": "pays-bas",
+            "de": "niederlande",
+            "it": "paesi bassi",
+            "pt": "paises baixos",
+            "pl": "holandia"
+        }
+    },
+    "NO": {
+        "name": "norway",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/flag_of_norway.svg/1920px-flag_of_norway.svg.png",
+        "name_translations": {
+            "en": "norway",
+            "hu": "norvegia",
+            "es": "noruega",
+            "fr": "norvege",
+            "de": "norwegen",
+            "it": "norvegia",
+            "pt": "noruega",
+            "pl": "norwegia"
+        }
+    },
+    "PL": {
+        "name": "poland",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/flag_of_poland.svg/1920px-flag_of_poland.svg.png",
+        "name_translations": {
+            "en": "poland",
+            "hu": "lengyelorszag",
+            "es": "polonia",
+            "fr": "pologne",
+            "de": "polen",
+            "it": "polonia",
+            "pt": "polonia",
+            "pl": "polska"
+        }
+    },
+    "PT": {
+        "name": "portugal",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/flag_of_portugal.svg/1920px-flag_of_portugal.svg.png",
+        "name_translations": {
+            "en": "portugal",
+            "hu": "portugalia",
+            "es": "portugal",
+            "fr": "portugal",
+            "de": "portugal",
+            "it": "portogallo",
+            "pt": "portugal",
+            "pl": "portugalia"
+        }
+    },
+    "RO": {
+        "name": "romania",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/flag_of_romania.svg/1920px-flag_of_romania.svg.png",
+        "name_translations": {
+            "en": "romania",
+            "hu": "romania",
+            "es": "rumania",
+            "fr": "roumanie",
+            "de": "rumanien",
+            "it": "romania",
+            "pt": "romenia",
+            "pl": "rumunia"
+        }
+    },
+    "RU": {
+        "name": "russia",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/flag_of_russia.svg/1920px-flag_of_russia.svg.png",
+        "name_translations": {
+            "en": "russia",
+            "hu": "oroszorszag",
+            "es": "rusia",
+            "fr": "russie",
+            "de": "russland",
+            "it": "russia",
+            "pt": "russia",
+            "pl": "rosja"
+        }
+    },
+    "SM": {
+        "name": "san marino",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/flag_of_san_marino.svg/1920px-flag_of_san_marino.svg.png",
+        "name_translations": {
+            "en": "san marino",
+            "hu": "san marino",
+            "es": "san marino",
+            "fr": "saint-marin",
+            "de": "san marino",
+            "it": "san marino",
+            "pt": "sao marino",
+            "pl": "san marino"
+        }
+    },
+    "RS": {
+        "name": "serbia",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/flag_of_serbia.svg/1920px-flag_of_serbia.svg.png",
+        "name_translations": {
+            "en": "serbia",
+            "hu": "szerbia",
+            "es": "serbia",
+            "fr": "serbie",
+            "de": "serbien",
+            "it": "serbia",
+            "pt": "servia",
+            "pl": "serbia"
+        }
+    },
+    "SK": {
+        "name": "slovakia",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/flag_of_slovakia.svg/1920px-flag_of_slovakia.svg.png",
+        "name_translations": {
+            "en": "slovakia",
+            "hu": "szlovakia",
+            "es": "eslovaquia",
+            "fr": "slovaquie",
+            "de": "slowakei",
+            "it": "slovacchia",
+            "pt": "eslovaquia",
+            "pl": "slowacja"
+        }
+    },
+    "SI": {
+        "name": "slovenia",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/flag_of_slovenia.svg/1920px-flag_of_slovenia.svg.png",
+        "name_translations": {
+            "en": "slovenia",
+            "hu": "szlovenia",
+            "es": "eslovenia",
+            "fr": "slovenie",
+            "de": "slowenien",
+            "it": "slovenia",
+            "pt": "eslovenia",
+            "pl": "slowenia"
+        }
+    },
+    "ES": {
+        "name": "spain",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/flag_of_spain.svg/1920px-flag_of_spain.svg.png",
+        "name_translations": {
+            "en": "spain",
+            "hu": "spanyolorszag",
+            "es": "espana",
+            "fr": "espagne",
+            "de": "spanien",
+            "it": "spagna",
+            "pt": "espanha",
+            "pl": "hiszpania"
+        }
+    },
+    "SE": {
+        "name": "sweden",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/flag_of_sweden.svg/1920px-flag_of_sweden.svg.png",
+        "name_translations": {
+            "en": "sweden",
+            "hu": "svedorszag",
+            "es": "suecia",
+            "fr": "suede",
+            "de": "schweden",
+            "it": "svezia",
+            "pt": "suecia",
+            "pl": "szwecja"
+        }
+    },
+    "CH": {
+        "name": "switzerland",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/flag_of_switzerland.svg/1920px-flag_of_switzerland.svg.png",
+        "name_translations": {
+            "en": "switzerland",
+            "hu": "svajc",
+            "es": "suiza",
+            "fr": "suisse",
+            "de": "schweiz",
+            "it": "svizzera",
+            "pt": "suica",
+            "pl": "szwajcaria"
+        }
+    },
+    "UA": {
+        "name": "ukraine",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/flag_of_ukraine.svg/1920px-flag_of_ukraine.svg.png",
+        "name_translations": {
+            "en": "ukraine",
+            "hu": "ukrajna",
+            "es": "ucrania",
+            "fr": "ukraine",
+            "de": "ukraine",
+            "it": "ucraina",
+            "pt": "ucrania",
+            "pl": "ukraina"
+        }
+    },
+    "GB": {
+        "name": "united kingdom",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/flag_of_the_united_kingdom.svg/1920px-flag_of_the_united_kingdom.svg.png",
+        "name_translations": {
+            "en": "united kingdom",
+            "hu": "egyesult kiralysag",
+            "es": "reino unido",
+            "fr": "royaume-uni",
+            "de": "vereinigtes konigreich",
+            "it": "regno unito",
+            "pt": "reino unido",
+            "pl": "wielka brytania"
+        }
+    }
+}

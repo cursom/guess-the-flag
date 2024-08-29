@@ -1,0 +1,746 @@
+{
+    "africa": {
+        "dz": {
+            "name": "algeria",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/flag_of_algeria.svg/1920px-flag_of_algeria.svg.png",
+            "name_translations": {
+                "en": "algeria",
+                "hu": "algeria",
+                "es": "argelia",
+                "fr": "algerie",
+                "de": "algerien",
+                "it": "algeria",
+                "pt": "argelia",
+                "pl": "algieria"
+            }
+        },
+        "ao": {
+            "name": "angola",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/flag_of_angola.svg/1920px-flag_of_angola.svg.png",
+            "name_translations": {
+                "en": "angola",
+                "hu": "angola",
+                "es": "angola",
+                "fr": "angola",
+                "de": "angola",
+                "it": "angola",
+                "pt": "angola",
+                "pl": "angola"
+            }
+        },
+        "bj": {
+            "name": "benin",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/flag_of_benin.svg/1920px-flag_of_benin.svg.png",
+            "name_translations": {
+                "en": "benin",
+                "hu": "benin",
+                "es": "benin",
+                "fr": "benin",
+                "de": "benin",
+                "it": "benin",
+                "pt": "benim",
+                "pl": "benin"
+            }
+        },
+        "bw": {
+            "name": "botswana",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/flag_of_botswana.svg/1920px-flag_of_botswana.svg.png",
+            "name_translations": {
+                "en": "botswana",
+                "hu": "botswana",
+                "es": "botswana",
+                "fr": "botswana",
+                "de": "botswana",
+                "it": "botswana",
+                "pt": "botswana",
+                "pl": "botswana"
+            }
+        },
+        "bf": {
+            "name": "burkina faso",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/flag_of_burkina_faso.svg/1920px-flag_of_burkina_faso.svg.png",
+            "name_translations": {
+                "en": "burkina faso",
+                "hu": "burkina faso",
+                "es": "burkina faso",
+                "fr": "burkina faso",
+                "de": "burkina faso",
+                "it": "burkina faso",
+                "pt": "burquina faso",
+                "pl": "burkina faso"
+            }
+        },
+        "bi": {
+            "name": "burundi",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/flag_of_burundi.svg/1920px-flag_of_burundi.svg.png",
+            "name_translations": {
+                "en": "burundi",
+                "hu": "burundi",
+                "es": "burundi",
+                "fr": "burundi",
+                "de": "burundi",
+                "it": "burundi",
+                "pt": "burundi",
+                "pl": "burundi"
+            }
+        },
+        "cm": {
+            "name": "cameroon",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/flag_of_cameroon.svg/1920px-flag_of_cameroon.svg.png",
+            "name_translations": {
+                "en": "cameroon",
+                "hu": "kamerun",
+                "es": "camerun",
+                "fr": "cameroun",
+                "de": "kamerun",
+                "it": "camerun",
+                "pt": "camaroes",
+                "pl": "kamerun"
+            }
+        },
+        "cv": {
+            "name": "cape verde",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/flag_of_cape_verde.svg/1920px-flag_of_cape_verde.svg.png",
+            "name_translations": {
+                "en": "cape verde",
+                "hu": "zold-foki-szigetek",
+                "es": "cabo verde",
+                "fr": "cap-vert",
+                "de": "kap verde",
+                "it": "capo verde",
+                "pt": "cabo verde",
+                "pl": "zielony przyladek"
+            }
+        },
+        "cf": {
+            "name": "central african republic",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/flag_of_the_central_african_republic.svg/1920px-flag_of_the_central_african_republic.svg.png",
+            "name_translations": {
+                "en": "central african republic",
+                "hu": "kozep-afrikai koztarsasag",
+                "es": "republica centroafricana",
+                "fr": "republique centrafricaine",
+                "de": "zentralafrikanische republik",
+                "it": "repubblica centrafricana",
+                "pt": "republica centro-africana",
+                "pl": "republika srodkowoafrykanska"
+            }
+        },
+        "td": {
+            "name": "chad",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/flag_of_chad.svg/1920px-flag_of_chad.svg.png",
+            "name_translations": {
+                "en": "chad",
+                "hu": "csad",
+                "es": "chad",
+                "fr": "tchad",
+                "de": "tschad",
+                "it": "ciad",
+                "pt": "chade",
+                "pl": "czad"
+            }
+        },
+        "cl": {
+            "name": "chile",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/flag_of_chile.svg/1920px-flag_of_chile.svg.png",
+            "name_translations": {
+                "en": "chile",
+                "hu": "chile",
+                "es": "chile",
+                "fr": "chili",
+                "de": "chile",
+                "it": "cile",
+                "pt": "chile",
+                "pl": "chile"
+            }
+        },
+        "cn": {
+            "name": "china",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/flag_of_china.svg/1920px-flag_of_china.svg.png",
+            "name_translations": {
+                "en": "china",
+                "hu": "kina",
+                "es": "china",
+                "fr": "chine",
+                "de": "china",
+                "it": "cina",
+                "pt": "china",
+                "pl": "chiny"
+            }
+        },
+        "co": {
+            "name": "colombia",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/flag_of_colombia.svg/1920px-flag_of_colombia.svg.png",
+            "name_translations": {
+                "en": "colombia",
+                "hu": "kolumbia",
+                "es": "colombia",
+                "fr": "colombie",
+                "de": "kolumbien",
+                "it": "colombia",
+                "pt": "colombia",
+                "pl": "kolumbia"
+            }
+        },
+        "cg": {
+            "name": "congo",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/flag_of_the_republic_of_the_congo.svg/1920px-flag_of_the_republic_of_the_congo.svg.png",
+            "name_translations": {
+                "en": "congo",
+                "hu": "kongoi koztarsasag",
+                "es": "republica del congo",
+                "fr": "republique du congo",
+                "de": "republik kongo",
+                "it": "congo",
+                "pt": "congo",
+                "pl": "kongo"
+            }
+        },
+        "ci": {
+            "name": "ivory coast",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/flag_of_cote_d%27ivoire.svg/1920px-flag_of_cote_d%27ivoire.svg.png",
+            "name_translations": {
+                "en": "ivory coast",
+                "hu": "elefantcsontpart",
+                "es": "costa de marfil",
+                "fr": "cote d'ivoire",
+                "de": "elfenbeinkuste",
+                "it": "costa d'avorio",
+                "pt": "costa do marfim",
+                "pl": "wybrzeze kosci sloniowej"
+            }
+        },
+        "dj": {
+            "name": "djibouti",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/flag_of_djibouti.svg/1920px-flag_of_djibouti.svg.png",
+            "name_translations": {
+                "en": "djibouti",
+                "hu": "dzsibuti",
+                "es": "yibuti",
+                "fr": "djibouti",
+                "de": "dschibuti",
+                "it": "gibuti",
+                "pt": "djibuti",
+                "pl": "dzibuti"
+            }
+        },
+        "eg": {
+            "name": "egypt",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/flag_of_egypt.svg/1920px-flag_of_egypt.svg.png",
+            "name_translations": {
+                "en": "egypt",
+                "hu": "egyiptom",
+                "es": "egipto",
+                "fr": "egypte",
+                "de": "agypten",
+                "it": "egitto",
+                "pt": "egito",
+                "pl": "egipt"
+            }
+        },
+        "gq": {
+            "name": "equatorial guinea",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/flag_of_equatorial_guinea.svg/1920px-flag_of_equatorial_guinea.svg.png",
+            "name_translations": {
+                "en": "equatorial guinea",
+                "hu": "egyenlitoi-guinea",
+                "es": "guinea ecuatorial",
+                "fr": "guinee equatoriale",
+                "de": "aquatorialguinea",
+                "it": "guinea equatoriale",
+                "pt": "guine equatorial",
+                "pl": "gwinea rownikowa"
+            }
+        },
+        "er": {
+            "name": "eritrea",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/flag_of_eritrea.svg/1920px-flag_of_eritrea.svg.png",
+            "name_translations": {
+                "en": "eritrea",
+                "hu": "eritrea",
+                "es": "eritrea",
+                "fr": "erythree",
+                "de": "eritrea",
+                "it": "eritrea",
+                "pt": "eritreia",
+                "pl": "erytrea"
+            }
+        },
+        "sz": {
+            "name": "eswatini",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/flag_of_eswatini.svg/1920px-flag_of_eswatini.svg.png",
+            "name_translations": {
+                "en": "eswatini",
+                "hu": "eswatini",
+                "es": "esuatini",
+                "fr": "eswatini",
+                "de": "eswatini",
+                "it": "eswatini",
+                "pt": "essuatini",
+                "pl": "eswatini"
+            }
+        },
+        "et": {
+            "name": "ethiopia",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/flag_of_ethiopia.svg/1920px-flag_of_ethiopia.svg.png",
+            "name_translations": {
+                "en": "ethiopia",
+                "hu": "etiopia",
+                "es": "etiopia",
+                "fr": "ethiopie",
+                "de": "athiopien",
+                "it": "etiopia",
+                "pt": "etiopia",
+                "pl": "etiopia"
+            }
+        },
+        "ga": {
+            "name": "gabon",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/flag_of_gabon.svg/1920px-flag_of_gabon.svg.png",
+            "name_translations": {
+                "en": "gabon",
+                "hu": "gabon",
+                "es": "gabon",
+                "fr": "gabon",
+                "de": "gabon",
+                "it": "gabon",
+                "pt": "gabao",
+                "pl": "gabon"
+            }
+        },
+        "gm": {
+            "name": "gambia",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/flag_of_the_gambia.svg/1920px-flag_of_the_gambia.svg.png",
+            "name_translations": {
+                "en": "gambia",
+                "hu": "gambia",
+                "es": "gambia",
+                "fr": "gambie",
+                "de": "gambia",
+                "it": "gambia",
+                "pt": "gambia",
+                "pl": "gambia"
+            }
+        },
+        "gh": {
+            "name": "ghana",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/flag_of_ghana.svg/1920px-flag_of_ghana.svg.png",
+            "name_translations": {
+                "en": "ghana",
+                "hu": "ghana",
+                "es": "ghana",
+                "fr": "ghana",
+                "de": "ghana",
+                "it": "ghana",
+                "pt": "gana",
+                "pl": "ghana"
+            }
+        },
+        "gn": {
+            "name": "guinea",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/flag_of_guinea.svg/1920px-flag_of_guinea.svg.png",
+            "name_translations": {
+                "en": "guinea",
+                "hu": "guinea",
+                "es": "guinea",
+                "fr": "guinee",
+                "de": "guinea",
+                "it": "guinea",
+                "pt": "guine",
+                "pl": "gwinea"
+            }
+        },
+        "gw": {
+            "name": "guinea-bissau",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/flag_of_guinea-bissau.svg/1920px-flag_of_guinea-bissau.svg.png",
+            "name_translations": {
+                "en": "guinea-bissau",
+                "hu": "guinea-bissau",
+                "es": "guinea-bisau",
+                "fr": "guinee-bissau",
+                "de": "guinea-bissau",
+                "it": "guinea-bissau",
+                "pt": "guine-bissau",
+                "pl": "gwinea-bissau"
+            }
+        },
+        "ke": {
+            "name": "kenya",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/flag_of_kenya.svg/1920px-flag_of_kenya.svg.png",
+            "name_translations": {
+                "en": "kenya",
+                "hu": "kenya",
+                "es": "kenia",
+                "fr": "kenya",
+                "de": "kenia",
+                "it": "kenya",
+                "pt": "quenia",
+                "pl": "kenia"
+            }
+        },
+        "ls": {
+            "name": "lesotho",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/flag_of_lesotho.svg/1920px-flag_of_lesotho.svg.png",
+            "name_translations": {
+                "en": "lesotho",
+                "hu": "lesotho",
+                "es": "lesoto",
+                "fr": "lesotho",
+                "de": "lesotho",
+                "it": "lesotho",
+                "pt": "lesoto",
+                "pl": "lesotho"
+            }
+        },
+        "lr": {
+            "name": "liberia",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/flag_of_liberia.svg/1920px-flag_of_liberia.svg.png",
+            "name_translations": {
+                "en": "liberia",
+                "hu": "liberia",
+                "es": "liberia",
+                "fr": "liberia",
+                "de": "liberia",
+                "it": "liberia",
+                "pt": "liberia",
+                "pl": "liberia"
+            }
+        },
+        "ly": {
+            "name": "libya",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/flag_of_libya.svg/1920px-flag_of_libya.svg.png",
+            "name_translations": {
+                "en": "libya",
+                "hu": "libia",
+                "es": "libia",
+                "fr": "libye",
+                "de": "libyen",
+                "it": "libia",
+                "pt": "libia",
+                "pl": "libia"
+            }
+        },
+        "mg": {
+            "name": "madagascar",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/flag_of_madagascar.svg/1920px-flag_of_madagascar.svg.png",
+            "name_translations": {
+                "en": "madagascar",
+                "hu": "madagaszkar",
+                "es": "madagascar",
+                "fr": "madagascar",
+                "de": "madagaskar",
+                "it": "madagascar",
+                "pt": "madagascar",
+                "pl": "madagaszkar"
+            }
+        },
+        "mw": {
+            "name": "malawi",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/flag_of_malawi.svg/1920px-flag_of_malawi.svg.png",
+            "name_translations": {
+                "en": "malawi",
+                "hu": "malawi",
+                "es": "malawi",
+                "fr": "malawi",
+                "de": "malawi",
+                "it": "malawi",
+                "pt": "malawi",
+                "pl": "malawi"
+            }
+        },
+        "ml": {
+            "name": "mali",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/flag_of_mali.svg/1920px-flag_of_mali.svg.png",
+            "name_translations": {
+                "en": "mali",
+                "hu": "mali",
+                "es": "mali",
+                "fr": "mali",
+                "de": "mali",
+                "it": "mali",
+                "pt": "mali",
+                "pl": "mali"
+            }
+        },
+        "mr": {
+            "name": "mauritania",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/flag_of_mauritania.svg/1920px-flag_of_mauritania.svg.png",
+            "name_translations": {
+                "en": "mauritania",
+                "hu": "mauritania",
+                "es": "mauritania",
+                "fr": "mauritanie",
+                "de": "mauretanien",
+                "it": "mauritania",
+                "pt": "mauritania",
+                "pl": "mauretania"
+            }
+        },
+        "mu": {
+            "name": "mauritius",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/flag_of_mauritius.svg/1920px-flag_of_mauritius.svg.png",
+            "name_translations": {
+                "en": "mauritius",
+                "hu": "mauriciusz",
+                "es": "mauricio",
+                "fr": "maurice",
+                "de": "mauritius",
+                "it": "maurizio",
+                "pt": "mauricias",
+                "pl": "mauritius"
+            }
+        },
+        "yt": {
+            "name": "mayotte",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/flag_of_mayotte.svg/1920px-flag_of_mayotte.svg.png",
+            "name_translations": {
+                "en": "mayotte",
+                "hu": "mayotte",
+                "es": "mayotte",
+                "fr": "mayotte",
+                "de": "mayotte",
+                "it": "mayotte",
+                "pt": "mayotte",
+                "pl": "majotta"
+            }
+        },
+        "na": {
+            "name": "namibia",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/flag_of_namibia.svg/1920px-flag_of_namibia.svg.png",
+            "name_translations": {
+                "en": "namibia",
+                "hu": "namibia",
+                "es": "namibia",
+                "fr": "namibie",
+                "de": "namibia",
+                "it": "namibia",
+                "pt": "namibia",
+                "pl": "namibia"
+            }
+        },
+        "ne": {
+            "name": "niger",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/flag_of_niger.svg/1920px-flag_of_niger.svg.png",
+            "name_translations": {
+                "en": "niger",
+                "hu": "niger",
+                "es": "niger",
+                "fr": "niger",
+                "de": "niger",
+                "it": "niger",
+                "pt": "niger",
+                "pl": "niger"
+            }
+        },
+        "ng": {
+            "name": "nigeria",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/flag_of_nigeria.svg/1920px-flag_of_nigeria.svg.png",
+            "name_translations": {
+                "en": "nigeria",
+                "hu": "nigeria",
+                "es": "nigeria",
+                "fr": "nigeria",
+                "de": "nigeria",
+                "it": "nigeria",
+                "pt": "nigeria",
+                "pl": "nigeria"
+            }
+        },
+        "rw": {
+            "name": "rwanda",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/flag_of_rwanda.svg/1920px-flag_of_rwanda.svg.png",
+            "name_translations": {
+                "en": "rwanda",
+                "hu": "ruanda",
+                "es": "ruanda",
+                "fr": "rwanda",
+                "de": "ruanda",
+                "it": "ruanda",
+                "pt": "ruanda",
+                "pl": "rwanda"
+            }
+        },
+        "st": {
+            "name": "sao tome and principe",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/flag_of_sao_tome_and_principe.svg/1920px-flag_of_sao_tome_and_principe.svg.png",
+            "name_translations": {
+                "en": "sao tome and principe",
+                "hu": "sao tome es principe",
+                "es": "sao tome y principe",
+                "fr": "sao tome-et-principe",
+                "de": "sao tome und principe",
+                "it": "sao tome e principe",
+                "pt": "sao tome e principe",
+                "pl": "wyspy swietego tomasza i ksiazeca"
+            }
+        },
+        "sn": {
+            "name": "senegal",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/flag_of_senegal.svg/1920px-flag_of_senegal.svg.png",
+            "name_translations": {
+                "en": "senegal",
+                "hu": "szenegal",
+                "es": "senegal",
+                "fr": "senegal",
+                "de": "senegal",
+                "it": "senegal",
+                "pt": "senegal",
+                "pl": "senegal"
+            }
+        },
+        "sc": {
+            "name": "seychelles",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/flag_of_seychelles.svg/1920px-flag_of_seychelles.svg.png",
+            "name_translations": {
+                "en": "seychelles",
+                "hu": "seychelle-szigetek",
+                "es": "seychelles",
+                "fr": "seychelles",
+                "de": "seychellen",
+                "it": "seychelles",
+                "pt": "seychelles",
+                "pl": "seszele"
+            }
+        },
+        "sl": {
+            "name": "sierra leone",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/flag_of_sierra_leone.svg/1920px-flag_of_sierra_leone.svg.png",
+            "name_translations": {
+                "en": "sierra leone",
+                "hu": "sierra leone",
+                "es": "sierra leona",
+                "fr": "sierra leone",
+                "de": "sierra leone",
+                "it": "sierra leone",
+                "pt": "serra leoa",
+                "pl": "sierra leone"
+            }
+        },
+        "so": {
+            "name": "somalia",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/flag_of_somalia.svg/1920px-flag_of_somalia.svg.png",
+            "name_translations": {
+                "en": "somalia",
+                "hu": "szomalia",
+                "es": "somalia",
+                "fr": "somalie",
+                "de": "somalia",
+                "it": "somalia",
+                "pt": "somalia",
+                "pl": "somalia"
+            }
+        },
+        "za": {
+            "name": "south africa",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/flag_of_south_africa.svg/1920px-flag_of_south_africa.svg.png",
+            "name_translations": {
+                "en": "south africa",
+                "hu": "del-afrika",
+                "es": "sudafrica",
+                "fr": "afrique du sud",
+                "de": "sudafrika",
+                "it": "sudafrica",
+                "pt": "africa do sul",
+                "pl": "rpa"
+            }
+        },
+        "ss": {
+            "name": "south sudan",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/flag_of_south_sudan.svg/1920px-flag_of_south_sudan.svg.png",
+            "name_translations": {
+                "en": "south sudan",
+                "hu": "del-szudan",
+                "es": "sudan del sur",
+                "fr": "soudan du sud",
+                "de": "sudsudan",
+                "it": "sudan del sud",
+                "pt": "sudao do sul",
+                "pl": "sudan poludniowy"
+            }
+        },
+        "sd": {
+            "name": "sudan",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/flag_of_sudan.svg/1920px-flag_of_sudan.svg.png",
+            "name_translations": {
+                "en": "sudan",
+                "hu": "szudan",
+                "es": "sudan",
+                "fr": "soudan",
+                "de": "sudan",
+                "it": "sudan",
+                "pt": "sudao",
+                "pl": "suda"
+            }
+        },
+        "tz": {
+            "name": "tanzania",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/flag_of_tanzania.svg/1920px-flag_of_tanzania.svg.png",
+            "name_translations": {
+                "en": "tanzania",
+                "hu": "tanzania",
+                "es": "tanzania",
+                "fr": "tanzanie",
+                "de": "tansania",
+                "it": "tanzania",
+                "pt": "tanzania",
+                "pl": "tanzania"
+            }
+        },
+        "tg": {
+            "name": "togo",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/flag_of_togo.svg/1920px-flag_of_togo.svg.png",
+            "name_translations": {
+                "en": "togo",
+                "hu": "togo",
+                "es": "togo",
+                "fr": "togo",
+                "de": "togo",
+                "it": "togo",
+                "pt": "togo",
+                "pl": "togo"
+            }
+        },
+        "ug": {
+            "name": "uganda",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/flag_of_uganda.svg/1920px-flag_of_uganda.svg.png",
+            "name_translations": {
+                "en": "uganda",
+                "hu": "uganda",
+                "es": "uganda",
+                "fr": "ouganda",
+                "de": "uganda",
+                "it": "uganda",
+                "pt": "uganda",
+                "pl": "uganda"
+            }
+        },
+        "zm": {
+            "name": "zambia",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/flag_of_zambia.svg/1920px-flag_of_zambia.svg.png",
+            "name_translations": {
+                "en": "zambia",
+                "hu": "zambia",
+                "es": "zambia",
+                "fr": "zambie",
+                "de": "sambia",
+                "it": "zambia",
+                "pt": "zambia",
+                "pl": "zambia"
+            }
+        },
+        "zw": {
+            "name": "zimbabwe",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/flag_of_zimbabwe.svg/1920px-flag_of_zimbabwe.svg.png",
+            "name_translations": {
+                "en": "zimbabwe",
+                "hu": "zimbabve",
+                "es": "zimbabue",
+                "fr": "zimbabwe",
+                "de": "simbabwe",
+                "it": "zimbabwe",
+                "pt": "zimbabue",
+                "pl": "zimbabwe"
+            }
+        }
+    }
+}

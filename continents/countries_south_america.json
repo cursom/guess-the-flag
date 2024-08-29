@@ -1,0 +1,172 @@
+{
+    "south_america": {
+        "ar": {
+            "name": "argentina",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/flag_of_argentina.svg/1920px-flag_of_argentina.svg.png",
+            "name_translations": {
+                "en": "argentina",
+                "hu": "argentina",
+                "es": "argentina",
+                "fr": "argentine",
+                "de": "argentinien",
+                "it": "argentina",
+                "pt": "argentina",
+                "pl": "argentyna"
+            }
+        },
+        "bo": {
+            "name": "bolivia",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/flag_of_bolivia.svg/1920px-flag_of_bolivia.svg.png",
+            "name_translations": {
+                "en": "bolivia",
+                "hu": "bolivia",
+                "es": "bolivia",
+                "fr": "bolivie",
+                "de": "bolivien",
+                "it": "bolivia",
+                "pt": "bolivia",
+                "pl": "boliwia"
+            }
+        },
+        "br": {
+            "name": "brazil",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/flag_of_brazil.svg/1920px-flag_of_brazil.svg.png",
+            "name_translations": {
+                "en": "brazil",
+                "hu": "brazilia",
+                "es": "brasil",
+                "fr": "bresil",
+                "de": "brasilien",
+                "it": "brasile",
+                "pt": "brasil",
+                "pl": "brazylia"
+            }
+        },
+        "cl": {
+            "name": "chile",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/flag_of_chile.svg/1920px-flag_of_chile.svg.png",
+            "name_translations": {
+                "en": "chile",
+                "hu": "chile",
+                "es": "chile",
+                "fr": "chili",
+                "de": "chile",
+                "it": "cile",
+                "pt": "chile",
+                "pl": "chile"
+            }
+        },
+        "co": {
+            "name": "colombia",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/flag_of_colombia.svg/1920px-flag_of_colombia.svg.png",
+            "name_translations": {
+                "en": "colombia",
+                "hu": "kolumbia",
+                "es": "colombia",
+                "fr": "colombie",
+                "de": "kolumbien",
+                "it": "colombia",
+                "pt": "colombia",
+                "pl": "kolumbia"
+            }
+        },
+        "ec": {
+            "name": "ecuador",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/flag_of_ecuador.svg/1920px-flag_of_ecuador.svg.png",
+            "name_translations": {
+                "en": "ecuador",
+                "hu": "ecuador",
+                "es": "ecuador",
+                "fr": "equateur",
+                "de": "ecuador",
+                "it": "ecuador",
+                "pt": "equador",
+                "pl": "ekwador"
+            }
+        },
+        "gy": {
+            "name": "guyana",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/flag_of_guyana.svg/1920px-flag_of_guyana.svg.png",
+            "name_translations": {
+                "en": "guyana",
+                "hu": "guyana",
+                "es": "guyana",
+                "fr": "guyane",
+                "de": "guyana",
+                "it": "guyana",
+                "pt": "guiana",
+                "pl": "gujana"
+            }
+        },
+        "py": {
+            "name": "paraguay",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/flag_of_paraguay.svg/1920px-flag_of_paraguay.svg.png",
+            "name_translations": {
+                "en": "paraguay",
+                "hu": "paraguay",
+                "es": "paraguay",
+                "fr": "paraguay",
+                "de": "paraguay",
+                "it": "paraguay",
+                "pt": "paraguai",
+                "pl": "paragwaj"
+            }
+        },
+        "pe": {
+            "name": "peru",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/flag_of_peru.svg/1920px-flag_of_peru.svg.png",
+            "name_translations": {
+                "en": "peru",
+                "hu": "peru",
+                "es": "peru",
+                "fr": "perou",
+                "de": "peru",
+                "it": "peru",
+                "pt": "peru",
+                "pl": "peru"
+            }
+        },
+        "sr": {
+            "name": "suriname",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/flag_of_suriname.svg/1920px-flag_of_suriname.svg.png",
+            "name_translations": {
+                "en": "suriname",
+                "hu": "suriname",
+                "es": "surinam",
+                "fr": "suriname",
+                "de": "suriname",
+                "it": "suriname",
+                "pt": "suriname",
+                "pl": "surinam"
+            }
+        },
+        "uy": {
+            "name": "uruguay",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/flag_of_uruguay.svg/1920px-flag_of_uruguay.svg.png",
+            "name_translations": {
+                "en": "uruguay",
+                "hu": "uruguay",
+                "es": "uruguay",
+                "fr": "uruguay",
+                "de": "uruguay",
+                "it": "uruguay",
+                "pt": "uruguai",
+                "pl": "urugwaj"
+            }
+        },
+        "ve": {
+            "name": "venezuela",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/flag_of_venezuela.svg/1920px-flag_of_venezuela.svg.png",
+            "name_translations": {
+                "en": "venezuela",
+                "hu": "venezuela",
+                "es": "venezuela",
+                "fr": "venezuela",
+                "de": "venezuela",
+                "it": "venezuela",
+                "pt": "venezuela",
+                "pl": "wenezuela"
+            }
+        }
+    }
+}
