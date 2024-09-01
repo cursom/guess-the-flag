@@ -21,8 +21,6 @@ const loadCountriesData = () => {
         const southAmerica = require('../../continents/countries_south_america.json');
 
         Object.assign(countriesData, { africa, asia, europe, northAmerica, oceania, southAmerica });
-
-        console.log('datas loaded'); // debug szoveg
     } catch (error) {
         console.error(error);
     }
@@ -42,8 +40,6 @@ export const generateFlag = (req: Request, res: Response) => {
             name_translations = result.name_translations;
             flag_image_url = result.flag_image_url;
         } while (!name_translations || !flag_image_url);
-
-        console.log('Generated country:', { continent, countryCode, name_translations, flag_image_url });
 
         const id = uuidv4();
         memoryStorage[id] = { continent, countryCode };
