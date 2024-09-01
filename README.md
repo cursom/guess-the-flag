@@ -39,7 +39,7 @@ The API supports the following languages:
 
 ## Example Request and Response
 
-### Generate a Flag Guess
+### Generate a Flag Guess `(POST /flag-guess/generate)`
 
 To generate a random country flag with the name in a specified language:
 
@@ -58,7 +58,7 @@ curl -X POST "http://localhost:3000/flag-guess/generate" -H "Content-Type: appli
 }
 ```
 
-### Check a Flag Guess
+### Check a Flag Guess `(POST /flag-guess/check)`
 
 To check if the guessed country name is correct:
 
