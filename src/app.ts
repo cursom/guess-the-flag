@@ -4,6 +4,7 @@ import dotenv from 'dotenv';
 import https from 'https';
 import fs from 'fs';
 import flagRoutes from './routes/flagRoutes';
+import { statusCheck } from './controllers/flagController';
 
 dotenv.config();
 
@@ -13,6 +14,9 @@ const useHttps = process.env.USE_HTTPS === 'true';
 
 app.use(cors());
 app.use(express.json());
+
+app.get('/', statusCheck);
+app.get('/flag-guess', statusCheck);
 app.use('/flag-guess', flagRoutes);
 
 if (useHttps) {

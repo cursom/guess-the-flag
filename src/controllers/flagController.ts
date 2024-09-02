@@ -47,7 +47,11 @@ export const generateFlag = (req: Request, res: Response) => {
         const country = countriesData[continent]?.[countryCode] || countriesData[continent.toLowerCase()]?.[countryCode.toLowerCase()];
 
         if (!country) {
-            throw new Error('Country data is missing');
+            return res.status(500).json({
+                code: 500,
+                status: 'ERROR',
+                message: 'Country data is missing'
+            });
         }
 
         res.json({
@@ -57,7 +61,11 @@ export const generateFlag = (req: Request, res: Response) => {
             lang
         });
     } catch (error) {
-        return res.status(500).json({ error: `Error generating random country: ${error}` });
+        return res.status(500).json({
+            code: 500,
+            status: 'ERROR',
+            message: `${error}`
+        });
     }
 };
 
@@ -65,15 +73,31 @@ export const checkFlag = (req: Request, res: Response) => {
     const { id, guessed_name, lang } = req.body;
     const storedData = memoryStorage[id];
 
-    if (!storedData) return res.status(400).json({ error: 'Invalid ID' });
+    if (!storedData) return res.status(400).json({
+        code: 400,
+        status: 'ERROR',
+        message: 'Invalid ID'
+    });
 
     const { continent, countryCode } = storedData;
     const country = countriesData[continent]?.[countryCode];
 
-    if (!country || !country.name_translations) return res.status(500).json({ error: 'Country data is missing' });
+    if (!country || !country.name_translations) return res.status(500).json({
+        code: 500,
+        status: 'ERROR',
+        message: 'Country data is missing'
+    });
 
     const correctName = country.name_translations[lang] || country.name_translations['en'] || '';
     const isCorrect = guessed_name.toLowerCase() === correctName.toLowerCase();
 
     res.json({ isCorrect });
+};
+
+export const statusCheck = (req: Request, res: Response) => {
+    res.json({
+        code: 200,
+        status: 'RUNNING',
+        message: 'Flag Guesser API is running'
+    });
 };
