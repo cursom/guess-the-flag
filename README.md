@@ -41,11 +41,14 @@ The API supports the following languages:
 
 ### Generate a Flag Guess `(POST /flag-guess/generate)`
 
-To generate a random country flag with the name in a specified language:
+Use this endpoint to generate a random country flag and retrieve the country's name in a specified language. You can specify the language by using the `lang` parameter.
+
+**Parameters:**
+- `lang` (string): The language code for the country name.
 
 **Example CURL Command:**
 ```bash
-curl -X POST "http://localhost:3000/flag-guess/generate" -H "Content-Type: application/json" -d "{"lang":"it"}"
+curl -X POST "http://localhost:3000/flag-guess/generate" -H "Content-Type: application/json" -d '{"lang":"it"}'
 ```
 
 **Example Response:**
@@ -58,13 +61,22 @@ curl -X POST "http://localhost:3000/flag-guess/generate" -H "Content-Type: appli
 }
 ```
 
+**Description:**
+- `id` (string): A unique identifier for the flag generation request.
+- `flag_image_url` (string): URL to the image of the country’s flag.
+- `country_name` (string): Name of the country in the specified language.
+- `lang` (string): Language code used for the country name.
+
 ### Check a Flag Guess `(POST /flag-guess/check)`
 
-To check if the guessed country name is correct:
+**Parameters:**
+- `id` (string): The unique identifier from the flag generation request.
+- `guessed_name` (string): The name guessed for the country.
+- `lang` (string): The language code used for the country name.
 
 **Example CURL Command:**
 ```bash
-curl -X POST "http://localhost:3000/flag-guess/check" -H "Content-Type: application/json" -d "{"id":"b1cab7d9-ad12-4869-ac6f-33e3d7d9d54e","guessed_name":"giappone","lang":"it"}"
+curl -X POST "http://localhost:3000/flag-guess/check" -H "Content-Type: application/json" -d '{"id":"b1cab7d9-ad12-4869-ac6f-33e3d7d9d54e","guessed_name":"giappone","lang":"it"}'
 ```
 
 **Example Response:**
@@ -73,6 +85,9 @@ curl -X POST "http://localhost:3000/flag-guess/check" -H "Content-Type: applicat
   "isCorrect": true
 }
 ```
+
+**Description:**
+- `isCorrect` (boolean): Indicates whether the guessed name is correct (`true`) or incorrect (`false`).
 
 ## SSL Configuration
 
