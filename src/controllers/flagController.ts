@@ -91,6 +91,8 @@ export const checkFlag = (req: Request, res: Response) => {
     const correctName = country.name_translations[lang] || country.name_translations['en'] || '';
     const isCorrect = guessed_name.toLowerCase() === correctName.toLowerCase();
 
+    delete memoryStorage[id];
+
     res.json({ isCorrect });
 };
 
