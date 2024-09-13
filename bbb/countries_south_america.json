@@ -2,7 +2,7 @@
     "south_america": {
         "ar": {
             "name": "argentina",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1920px-Flag_of_Argentina.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/flag_of_argentina.svg/1920px-flag_of_argentina.svg.png",
             "name_translations": {
                 "en": "argentina",
                 "hu": "argentina",
@@ -16,7 +16,7 @@
         },
         "bo": {
             "name": "bolivia",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/1920px-Flag_of_Bolivia.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/flag_of_bolivia.svg/1920px-flag_of_bolivia.svg.png",
             "name_translations": {
                 "en": "bolivia",
                 "hu": "bolivia",
@@ -30,7 +30,7 @@
         },
         "br": {
             "name": "brazil",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1920px-Flag_of_Brazil.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/flag_of_brazil.svg/1920px-flag_of_brazil.svg.png",
             "name_translations": {
                 "en": "brazil",
                 "hu": "brazilia",
@@ -44,7 +44,7 @@
         },
         "cl": {
             "name": "chile",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1920px-Flag_of_Chile.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/flag_of_chile.svg/1920px-flag_of_chile.svg.png",
             "name_translations": {
                 "en": "chile",
                 "hu": "chile",
@@ -58,7 +58,7 @@
         },
         "co": {
             "name": "colombia",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1920px-Flag_of_Colombia.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/flag_of_colombia.svg/1920px-flag_of_colombia.svg.png",
             "name_translations": {
                 "en": "colombia",
                 "hu": "kolumbia",
@@ -72,7 +72,7 @@
         },
         "ec": {
             "name": "ecuador",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1920px-Flag_of_Ecuador.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/flag_of_ecuador.svg/1920px-flag_of_ecuador.svg.png",
             "name_translations": {
                 "en": "ecuador",
                 "hu": "ecuador",
@@ -86,7 +86,7 @@
         },
         "gy": {
             "name": "guyana",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/1920px-Flag_of_Guyana.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/flag_of_guyana.svg/1920px-flag_of_guyana.svg.png",
             "name_translations": {
                 "en": "guyana",
                 "hu": "guyana",
@@ -100,7 +100,7 @@
         },
         "py": {
             "name": "paraguay",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1920px-Flag_of_Paraguay.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/flag_of_paraguay.svg/1920px-flag_of_paraguay.svg.png",
             "name_translations": {
                 "en": "paraguay",
                 "hu": "paraguay",
@@ -114,7 +114,7 @@
         },
         "pe": {
             "name": "peru",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1920px-Flag_of_Peru.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/flag_of_peru.svg/1920px-flag_of_peru.svg.png",
             "name_translations": {
                 "en": "peru",
                 "hu": "peru",
@@ -128,7 +128,7 @@
         },
         "sr": {
             "name": "suriname",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/1920px-Flag_of_Suriname.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/flag_of_suriname.svg/1920px-flag_of_suriname.svg.png",
             "name_translations": {
                 "en": "suriname",
                 "hu": "suriname",
@@ -142,7 +142,7 @@
         },
         "uy": {
             "name": "uruguay",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1920px-Flag_of_Uruguay.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/flag_of_uruguay.svg/1920px-flag_of_uruguay.svg.png",
             "name_translations": {
                 "en": "uruguay",
                 "hu": "uruguay",
@@ -156,7 +156,7 @@
         },
         "ve": {
             "name": "venezuela",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1920px-Flag_of_Venezuela.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/flag_of_venezuela.svg/1920px-flag_of_venezuela.svg.png",
             "name_translations": {
                 "en": "venezuela",
                 "hu": "venezuela",

@@ -2,7 +2,7 @@
     "north_america": {
         "ca": {
             "name": "canada",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada.svg/1920px-Flag_of_Canada.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/flag_of_canada.svg/1920px-flag_of_canada.svg.png",
             "name_translations": {
                 "en": "canada",
                 "hu": "kanada",
@@ -16,7 +16,7 @@
         },
         "mx": {
             "name": "mexico",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1920px-Flag_of_Mexico.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/flag_of_mexico.svg/1920px-flag_of_mexico.svg.png",
             "name_translations": {
                 "en": "mexico",
                 "hu": "mexiko",
@@ -30,7 +30,7 @@
         },
         "us": {
             "name": "united states",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_The_United_States.svg/1920px-Flag_of_The_United_States.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/flag_of_the_united_states.svg/1920px-flag_of_the_united_states.svg.png",
             "name_translations": {
                 "en": "united states",
                 "hu": "egyesult allamok",
@@ -44,7 +44,7 @@
         },
         "bl": {
             "name": "saint barthelemy",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Flag_of_Saint_Barth%c3%a9lemy.svg/1920px-Flag_of_Saint_Barth%c3%a9lemy.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/flag_of_saint_barth%c3%a9lemy.svg/1920px-flag_of_saint_barth%c3%a9lemy.svg.png",
             "name_translations": {
                 "en": "saint barthelemy",
                 "hu": "saint-barthelemy",
@@ -58,7 +58,7 @@
         },
         "bq": {
             "name": "bonaire, sint eustatius and saba",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Flag_of_Bonaire.svg/1920px-Flag_of_Bonaire.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/flag_of_bonaire.svg/1920px-flag_of_bonaire.svg.png",
             "name_translations": {
                 "en": "bonaire, sint eustatius and saba",
                 "hu": "bonaire, sint eustatius es saba",
@@ -72,7 +72,7 @@
         },
         "cw": {
             "name": "curacao",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_Cura%c3%a7ao.svg/1920px-Flag_of_Cura%c3%a7ao.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/flag_of_cura%c3%a7ao.svg/1920px-flag_of_cura%c3%a7ao.svg.png",
             "name_translations": {
                 "en": "curacao",
                 "hu": "curacao",
@@ -86,7 +86,7 @@
         },
         "gp": {
             "name": "guadeloupe",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Guadeloupe.svg/1920px-Flag_of_Guadeloupe.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/flag_of_guadeloupe.svg/1920px-flag_of_guadeloupe.svg.png",
             "name_translations": {
                 "en": "guadeloupe",
                 "hu": "guadeloupe",
@@ -100,7 +100,7 @@
         },
         "mq": {
             "name": "martinique",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Martinique.svg/1920px-Flag_of_Martinique.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/flag_of_martinique.svg/1920px-flag_of_martinique.svg.png",
             "name_translations": {
                 "en": "martinique",
                 "hu": "martinique",
@@ -114,7 +114,7 @@
         },
         "pm": {
             "name": "saint pierre and miquelon",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Saint_Pierre_And_Miquelon.svg/1920px-Flag_of_Saint_Pierre_And_Miquelon.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/flag_of_saint_pierre_and_miquelon.svg/1920px-flag_of_saint_pierre_and_miquelon.svg.png",
             "name_translations": {
                 "en": "saint pierre and miquelon",
                 "hu": "saint-pierre es miquelon",
@@ -128,7 +128,7 @@
         },
         "sx": {
             "name": "sint maarten",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Sint_Maarten.svg/1920px-Flag_of_Sint_Maarten.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/flag_of_sint_maarten.svg/1920px-flag_of_sint_maarten.svg.png",
             "name_translations": {
                 "en": "sint maarten",
                 "hu": "sint maarten",
@@ -142,7 +142,7 @@
         },
         "tt": {
             "name": "trinidad and tobago",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Trinidad_And_Tobago.svg/1920px-Flag_of_Trinidad_And_Tobago.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/flag_of_trinidad_and_tobago.svg/1920px-flag_of_trinidad_and_tobago.svg.png",
             "name_translations": {
                 "en": "trinidad and tobago",
                 "hu": "trinidad es tobago",

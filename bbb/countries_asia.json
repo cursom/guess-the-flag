@@ -1,7 +1,7 @@
 {
     "AF": {
         "name": "afghanistan",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Afghanistan.svg/1920px-Flag_of_Afghanistan.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/flag_of_afghanistan.svg/1920px-flag_of_afghanistan.svg.png",
         "name_translations": {
             "en": "afghanistan",
             "hu": "afganisztan",
@@ -15,7 +15,7 @@
     },
     "AM": {
         "name": "armenia",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1920px-Flag_of_Armenia.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/flag_of_armenia.svg/1920px-flag_of_armenia.svg.png",
         "name_translations": {
             "en": "armenia",
             "hu": "ormenyorszag",
@@ -29,7 +29,7 @@
     },
     "AZ": {
         "name": "azerbaijan",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1920px-Flag_of_Azerbaijan.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/flag_of_azerbaijan.svg/1920px-flag_of_azerbaijan.svg.png",
         "name_translations": {
             "en": "azerbaijan",
             "hu": "azerbajdzsan",
@@ -43,7 +43,7 @@
     },
     "BH": {
         "name": "bahrain",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Bahrain.svg/1920px-Flag_of_Bahrain.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/flag_of_bahrain.svg/1920px-flag_of_bahrain.svg.png",
         "name_translations": {
             "en": "bahrain",
             "hu": "bahrein",
@@ -57,7 +57,7 @@
     },
     "BD": {
         "name": "bangladesh",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1920px-Flag_of_Bangladesh.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/flag_of_bangladesh.svg/1920px-flag_of_bangladesh.svg.png",
         "name_translations": {
             "en": "bangladesh",
             "hu": "banglades",
@@ -71,7 +71,7 @@
     },
     "BT": {
         "name": "bhutan",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/1920px-Flag_of_Bhutan.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/flag_of_bhutan.svg/1920px-flag_of_bhutan.svg.png",
         "name_translations": {
             "en": "bhutan",
             "hu": "bhutan",
@@ -85,7 +85,7 @@
     },
     "BN": {
         "name": "brunei",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/1920px-Flag_of_Brunei.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/flag_of_brunei.svg/1920px-flag_of_brunei.svg.png",
         "name_translations": {
             "en": "brunei",
             "hu": "brunei",
@@ -99,7 +99,7 @@
     },
     "KH": {
         "name": "cambodia",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/1920px-Flag_of_Cambodia.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/flag_of_cambodia.svg/1920px-flag_of_cambodia.svg.png",
         "name_translations": {
             "en": "cambodia",
             "hu": "kambodzsa",
@@ -113,7 +113,7 @@
     },
     "CN": {
         "name": "china",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_China.svg/1920px-Flag_of_China.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/flag_of_china.svg/1920px-flag_of_china.svg.png",
         "name_translations": {
             "en": "china",
             "hu": "kina",
@@ -127,7 +127,7 @@
     },
     "CY": {
         "name": "cyprus",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_Cyprus.svg/1920px-Flag_of_Cyprus.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/flag_of_cyprus.svg/1920px-flag_of_cyprus.svg.png",
         "name_translations": {
             "en": "cyprus",
             "hu": "ciprus",
@@ -141,7 +141,7 @@
     },
     "GE": {
         "name": "georgia",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Georgia.svg/1920px-Flag_of_Georgia.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/flag_of_georgia.svg/1920px-flag_of_georgia.svg.png",
         "name_translations": {
             "en": "georgia",
             "hu": "gruzia",
@@ -155,7 +155,7 @@
     },
     "IN": {
         "name": "india",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1920px-Flag_of_India.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/flag_of_india.svg/1920px-flag_of_india.svg.png",
         "name_translations": {
             "en": "india",
             "hu": "india",
@@ -169,7 +169,7 @@
     },
     "ID": {
         "name": "indonesia",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1920px-Flag_of_Indonesia.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/flag_of_indonesia.svg/1920px-flag_of_indonesia.svg.png",
         "name_translations": {
             "en": "indonesia",
             "hu": "indonezia",
@@ -183,7 +183,7 @@
     },
     "IR": {
         "name": "iran",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1920px-Flag_of_Iran.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/flag_of_iran.svg/1920px-flag_of_iran.svg.png",
         "name_translations": {
             "en": "iran",
             "hu": "iran",
@@ -197,7 +197,7 @@
     },
     "IQ": {
         "name": "iraq",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Iraq.svg/1920px-Flag_of_Iraq.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/flag_of_iraq.svg/1920px-flag_of_iraq.svg.png",
         "name_translations": {
             "en": "iraq",
             "hu": "irak",
@@ -211,7 +211,7 @@
     },
     "IL": {
         "name": "israel",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1920px-Flag_of_Israel.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/flag_of_israel.svg/1920px-flag_of_israel.svg.png",
         "name_translations": {
             "en": "israel",
             "hu": "izrael",
@@ -225,7 +225,7 @@
     },
     "JP": {
         "name": "japan",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1920px-Flag_of_Japan.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/flag_of_japan.svg/1920px-flag_of_japan.svg.png",
         "name_translations": {
             "en": "japan",
             "hu": "japan",
@@ -239,7 +239,7 @@
     },
     "JO": {
         "name": "jordan",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/1920px-Flag_of_Jordan.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/flag_of_jordan.svg/1920px-flag_of_jordan.svg.png",
         "name_translations": {
             "en": "jordan",
             "hu": "jordania",
@@ -253,7 +253,7 @@
     },
     "KZ": {
         "name": "kazakhstan",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1920px-Flag_of_Kazakhstan.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/flag_of_kazakhstan.svg/1920px-flag_of_kazakhstan.svg.png",
         "name_translations": {
             "en": "kazakhstan",
             "hu": "kazahsztan",
@@ -267,7 +267,7 @@
     },
     "KP": {
         "name": "north korea",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1920px-Flag_of_North_Korea.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/flag_of_north_korea.svg/1920px-flag_of_north_korea.svg.png",
         "name_translations": {
             "en": "north korea",
             "hu": "eszak-korea",
@@ -281,7 +281,7 @@
     },
     "KR": {
         "name": "south korea",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_South_Korea.svg/1920px-Flag_of_South_Korea.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/flag_of_south_korea.svg/1920px-flag_of_south_korea.svg.png",
         "name_translations": {
             "en": "south korea",
             "hu": "del-korea",
@@ -295,7 +295,7 @@
     },
     "KW": {
         "name": "kuwait",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Kuwait.svg/1920px-Flag_of_Kuwait.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/flag_of_kuwait.svg/1920px-flag_of_kuwait.svg.png",
         "name_translations": {
             "en": "kuwait",
             "hu": "kuvait",
@@ -309,7 +309,7 @@
     },
     "KG": {
         "name": "kyrgyzstan",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Kyrgyzstan.svg/1920px-Flag_of_Kyrgyzstan.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/flag_of_kyrgyzstan.svg/1920px-flag_of_kyrgyzstan.svg.png",
         "name_translations": {
             "en": "kyrgyzstan",
             "hu": "kirgizisztan",
@@ -323,7 +323,7 @@
     },
     "LA": {
         "name": "laos",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/1920px-Flag_of_Laos.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/flag_of_laos.svg/1920px-flag_of_laos.svg.png",
         "name_translations": {
             "en": "laos",
             "hu": "laosz",
@@ -337,7 +337,7 @@
     },
     "LB": {
         "name": "lebanon",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/1920px-Flag_of_Lebanon.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/flag_of_lebanon.svg/1920px-flag_of_lebanon.svg.png",
         "name_translations": {
             "en": "lebanon",
             "hu": "libanon",
@@ -351,7 +351,7 @@
     },
     "MY": {
         "name": "malaysia",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/1920px-Flag_of_Malaysia.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/flag_of_malaysia.svg/1920px-flag_of_malaysia.svg.png",
         "name_translations": {
             "en": "malaysia",
             "hu": "malajzia",
@@ -365,7 +365,7 @@
     },
     "MV": {
         "name": "maldives",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_The_Maldives.svg/1920px-Flag_of_The_Maldives.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/flag_of_the_maldives.svg/1920px-flag_of_the_maldives.svg.png",
         "name_translations": {
             "en": "maldives",
             "hu": "maldiv-szigetek",
@@ -379,7 +379,7 @@
     },
     "MN": {
         "name": "mongolia",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/1920px-Flag_of_Mongolia.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/flag_of_mongolia.svg/1920px-flag_of_mongolia.svg.png",
         "name_translations": {
             "en": "mongolia",
             "hu": "mongolia",
@@ -393,7 +393,7 @@
     },
     "MM": {
         "name": "myanmar",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1920px-Flag_of_Myanmar.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/flag_of_myanmar.svg/1920px-flag_of_myanmar.svg.png",
         "name_translations": {
             "en": "myanmar",
             "hu": "mianmar",
@@ -407,7 +407,7 @@
     },
     "NP": {
         "name": "nepal",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Nepal.svg/1920px-Flag_of_Nepal.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/flag_of_nepal.svg/1920px-flag_of_nepal.svg.png",
         "name_translations": {
             "en": "nepal",
             "hu": "nepal",
@@ -421,7 +421,7 @@
     },
     "OM": {
         "name": "oman",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/1920px-Flag_of_Oman.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/flag_of_oman.svg/1920px-flag_of_oman.svg.png",
         "name_translations": {
             "en": "oman",
             "hu": "oman",
@@ -435,7 +435,7 @@
     },
     "PK": {
         "name": "pakistan",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1920px-Flag_of_Pakistan.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/flag_of_pakistan.svg/1920px-flag_of_pakistan.svg.png",
         "name_translations": {
             "en": "pakistan",
             "hu": "pakisztan",
@@ -449,7 +449,7 @@
     },
     "PH": {
         "name": "philippines",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_The_Philippines.svg/1920px-Flag_of_The_Philippines.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/flag_of_the_philippines.svg/1920px-flag_of_the_philippines.svg.png",
         "name_translations": {
             "en": "philippines",
             "hu": "fulop-szigetek",
@@ -463,7 +463,7 @@
     },
     "QA": {
         "name": "qatar",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/1920px-Flag_of_Qatar.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/flag_of_qatar.svg/1920px-flag_of_qatar.svg.png",
         "name_translations": {
             "en": "qatar",
             "hu": "katar",
@@ -477,7 +477,7 @@
     },
     "SA": {
         "name": "saudi arabia",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Flag_of_Saudi_Arabia.svg/1920px-Flag_of_Saudi_Arabia.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/flag_of_saudi_arabia.svg/1920px-flag_of_saudi_arabia.svg.png",
         "name_translations": {
             "en": "saudi arabia",
             "hu": "szaud-arabia",
@@ -491,7 +491,7 @@
     },
     "SG": {
         "name": "singapore",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1920px-Flag_of_Singapore.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/flag_of_singapore.svg/1920px-flag_of_singapore.svg.png",
         "name_translations": {
             "en": "singapore",
             "hu": "szingapur",
@@ -505,7 +505,7 @@
     },
     "LK": {
         "name": "sri lanka",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1920px-Flag_of_Sri_Lanka.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/flag_of_sri_lanka.svg/1920px-flag_of_sri_lanka.svg.png",
         "name_translations": {
             "en": "sri lanka",
             "hu": "sri lanka",
@@ -519,7 +519,7 @@
     },
     "SY": {
         "name": "syria",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/1920px-Flag_of_Syria.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/flag_of_syria.svg/1920px-flag_of_syria.svg.png",
         "name_translations": {
             "en": "syria",
             "hu": "sziria",
@@ -533,7 +533,7 @@
     },
     "TW": {
         "name": "taiwan",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Taiwan.svg/1920px-Flag_of_Taiwan.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/flag_of_taiwan.svg/1920px-flag_of_taiwan.svg.png",
         "name_translations": {
             "en": "taiwan",
             "hu": "taiwan",
@@ -547,7 +547,7 @@
     },
     "TJ": {
         "name": "tajikistan",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Tajikistan.svg/1920px-Flag_of_Tajikistan.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/flag_of_tajikistan.svg/1920px-flag_of_tajikistan.svg.png",
         "name_translations": {
             "en": "tajikistan",
             "hu": "tadzsikisztan",
@@ -561,7 +561,7 @@
     },
     "TH": {
         "name": "thailand",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1920px-Flag_of_Thailand.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/flag_of_thailand.svg/1920px-flag_of_thailand.svg.png",
         "name_translations": {
             "en": "thailand",
             "hu": "thaifold",
@@ -575,7 +575,7 @@
     },
     "TL": {
         "name": "timor-leste",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Timor_Leste.svg/1920px-Flag_of_Timor_Leste.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/flag_of_timor_leste.svg/1920px-flag_of_timor_leste.svg.png",
         "name_translations": {
             "en": "timor-leste",
             "hu": "kelet-timor",
@@ -589,7 +589,7 @@
     },
     "TR": {
         "name": "turkey",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1920px-Flag_of_Turkey.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/flag_of_turkey.svg/1920px-flag_of_turkey.svg.png",
         "name_translations": {
             "en": "turkey",
             "hu": "torokorszag",
@@ -603,7 +603,7 @@
     },
     "TM": {
         "name": "turkmenistan",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Turkmenistan.svg/1920px-Flag_of_Turkmenistan.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/flag_of_turkmenistan.svg/1920px-flag_of_turkmenistan.svg.png",
         "name_translations": {
             "en": "turkmenistan",
             "hu": "turkmenisztan",
@@ -617,7 +617,7 @@
     },
     "UZ": {
         "name": "uzbekistan",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/1920px-Flag_of_Uzbekistan.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/flag_of_uzbekistan.svg/1920px-flag_of_uzbekistan.svg.png",
         "name_translations": {
             "en": "uzbekistan",
             "hu": "uzbegisztan",
@@ -631,7 +631,7 @@
     },
     "VN": {
         "name": "vietnam",
-        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1920px-Flag_of_Vietnam.svg.png",
+        "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/flag_of_vietnam.svg/1920px-flag_of_vietnam.svg.png",
         "name_translations": {
             "en": "vietnam",
             "hu": "vietnam",

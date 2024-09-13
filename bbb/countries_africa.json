@@ -2,7 +2,7 @@
     "africa": {
         "dz": {
             "name": "algeria",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1920px-Flag_of_Algeria.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/flag_of_algeria.svg/1920px-flag_of_algeria.svg.png",
             "name_translations": {
                 "en": "algeria",
                 "hu": "algeria",
@@ -16,7 +16,7 @@
         },
         "ao": {
             "name": "angola",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1920px-Flag_of_Angola.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/flag_of_angola.svg/1920px-flag_of_angola.svg.png",
             "name_translations": {
                 "en": "angola",
                 "hu": "angola",
@@ -30,7 +30,7 @@
         },
         "bj": {
             "name": "benin",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/1920px-Flag_of_Benin.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/flag_of_benin.svg/1920px-flag_of_benin.svg.png",
             "name_translations": {
                 "en": "benin",
                 "hu": "benin",
@@ -44,7 +44,7 @@
         },
         "bw": {
             "name": "botswana",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Botswana.svg/1920px-Flag_of_Botswana.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/flag_of_botswana.svg/1920px-flag_of_botswana.svg.png",
             "name_translations": {
                 "en": "botswana",
                 "hu": "botswana",
@@ -58,7 +58,7 @@
         },
         "bf": {
             "name": "burkina faso",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Burkina_Faso.svg/1920px-Flag_of_Burkina_Faso.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/flag_of_burkina_faso.svg/1920px-flag_of_burkina_faso.svg.png",
             "name_translations": {
                 "en": "burkina faso",
                 "hu": "burkina faso",
@@ -72,7 +72,7 @@
         },
         "bi": {
             "name": "burundi",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_Burundi.svg/1920px-Flag_of_Burundi.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/flag_of_burundi.svg/1920px-flag_of_burundi.svg.png",
             "name_translations": {
                 "en": "burundi",
                 "hu": "burundi",
@@ -86,7 +86,7 @@
         },
         "cm": {
             "name": "cameroon",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1920px-Flag_of_Cameroon.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/flag_of_cameroon.svg/1920px-flag_of_cameroon.svg.png",
             "name_translations": {
                 "en": "cameroon",
                 "hu": "kamerun",
@@ -100,7 +100,7 @@
         },
         "cv": {
             "name": "cape verde",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Cape_Verde.svg/1920px-Flag_of_Cape_Verde.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/flag_of_cape_verde.svg/1920px-flag_of_cape_verde.svg.png",
             "name_translations": {
                 "en": "cape verde",
                 "hu": "zold-foki-szigetek",
@@ -114,7 +114,7 @@
         },
         "cf": {
             "name": "central african republic",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_The_Central_African_Republic.svg/1920px-Flag_of_The_Central_African_Republic.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/flag_of_the_central_african_republic.svg/1920px-flag_of_the_central_african_republic.svg.png",
             "name_translations": {
                 "en": "central african republic",
                 "hu": "kozep-afrikai koztarsasag",
@@ -128,7 +128,7 @@
         },
         "td": {
             "name": "chad",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Chad.svg/1920px-Flag_of_Chad.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/flag_of_chad.svg/1920px-flag_of_chad.svg.png",
             "name_translations": {
                 "en": "chad",
                 "hu": "csad",
@@ -142,7 +142,7 @@
         },
         "cl": {
             "name": "chile",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1920px-Flag_of_Chile.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/flag_of_chile.svg/1920px-flag_of_chile.svg.png",
             "name_translations": {
                 "en": "chile",
                 "hu": "chile",
@@ -156,7 +156,7 @@
         },
         "cn": {
             "name": "china",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_China.svg/1920px-Flag_of_China.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/flag_of_china.svg/1920px-flag_of_china.svg.png",
             "name_translations": {
                 "en": "china",
                 "hu": "kina",
@@ -170,7 +170,7 @@
         },
         "co": {
             "name": "colombia",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Colombia.svg/1920px-Flag_of_Colombia.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/flag_of_colombia.svg/1920px-flag_of_colombia.svg.png",
             "name_translations": {
                 "en": "colombia",
                 "hu": "kolumbia",
@@ -184,7 +184,7 @@
         },
         "cg": {
             "name": "congo",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_The_Republic_Of_The_Congo.svg/1920px-Flag_of_The_Republic_Of_The_Congo.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/flag_of_the_republic_of_the_congo.svg/1920px-flag_of_the_republic_of_the_congo.svg.png",
             "name_translations": {
                 "en": "congo",
                 "hu": "kongoi koztarsasag",
@@ -198,7 +198,7 @@
         },
         "ci": {
             "name": "ivory coast",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Cote_D%27ivoire.svg/1920px-Flag_of_Cote_D%27ivoire.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/flag_of_cote_d%27ivoire.svg/1920px-flag_of_cote_d%27ivoire.svg.png",
             "name_translations": {
                 "en": "ivory coast",
                 "hu": "elefantcsontpart",
@@ -212,7 +212,7 @@
         },
         "dj": {
             "name": "djibouti",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Djibouti.svg/1920px-Flag_of_Djibouti.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/flag_of_djibouti.svg/1920px-flag_of_djibouti.svg.png",
             "name_translations": {
                 "en": "djibouti",
                 "hu": "dzsibuti",
@@ -226,7 +226,7 @@
         },
         "eg": {
             "name": "egypt",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Egypt.svg/1920px-Flag_of_Egypt.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/flag_of_egypt.svg/1920px-flag_of_egypt.svg.png",
             "name_translations": {
                 "en": "egypt",
                 "hu": "egyiptom",
@@ -240,7 +240,7 @@
         },
         "gq": {
             "name": "equatorial guinea",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Equatorial_Guinea.svg/1920px-Flag_of_Equatorial_Guinea.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/flag_of_equatorial_guinea.svg/1920px-flag_of_equatorial_guinea.svg.png",
             "name_translations": {
                 "en": "equatorial guinea",
                 "hu": "egyenlitoi-guinea",
@@ -254,7 +254,7 @@
         },
         "er": {
             "name": "eritrea",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_Eritrea.svg/1920px-Flag_of_Eritrea.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/flag_of_eritrea.svg/1920px-flag_of_eritrea.svg.png",
             "name_translations": {
                 "en": "eritrea",
                 "hu": "eritrea",
@@ -268,7 +268,7 @@
         },
         "sz": {
             "name": "eswatini",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Eswatini.svg/1920px-Flag_of_Eswatini.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/flag_of_eswatini.svg/1920px-flag_of_eswatini.svg.png",
             "name_translations": {
                 "en": "eswatini",
                 "hu": "eswatini",
@@ -282,7 +282,7 @@
         },
         "et": {
             "name": "ethiopia",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Flag_of_Ethiopia.svg/1920px-Flag_of_Ethiopia.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/flag_of_ethiopia.svg/1920px-flag_of_ethiopia.svg.png",
             "name_translations": {
                 "en": "ethiopia",
                 "hu": "etiopia",
@@ -296,7 +296,7 @@
         },
         "ga": {
             "name": "gabon",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/1920px-Flag_of_Gabon.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/flag_of_gabon.svg/1920px-flag_of_gabon.svg.png",
             "name_translations": {
                 "en": "gabon",
                 "hu": "gabon",
@@ -310,7 +310,7 @@
         },
         "gm": {
             "name": "gambia",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/1920px-Flag_of_The_Gambia.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/flag_of_the_gambia.svg/1920px-flag_of_the_gambia.svg.png",
             "name_translations": {
                 "en": "gambia",
                 "hu": "gambia",
@@ -324,7 +324,7 @@
         },
         "gh": {
             "name": "ghana",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1920px-Flag_of_Ghana.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/flag_of_ghana.svg/1920px-flag_of_ghana.svg.png",
             "name_translations": {
                 "en": "ghana",
                 "hu": "ghana",
@@ -338,7 +338,7 @@
         },
         "gn": {
             "name": "guinea",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Guinea.svg/1920px-Flag_of_Guinea.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/flag_of_guinea.svg/1920px-flag_of_guinea.svg.png",
             "name_translations": {
                 "en": "guinea",
                 "hu": "guinea",
@@ -352,7 +352,7 @@
         },
         "gw": {
             "name": "guinea-bissau",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_Guinea-bissau.svg/1920px-Flag_of_Guinea-bissau.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/flag_of_guinea-bissau.svg/1920px-flag_of_guinea-bissau.svg.png",
             "name_translations": {
                 "en": "guinea-bissau",
                 "hu": "guinea-bissau",
@@ -366,7 +366,7 @@
         },
         "ke": {
             "name": "kenya",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1920px-Flag_of_Kenya.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/flag_of_kenya.svg/1920px-flag_of_kenya.svg.png",
             "name_translations": {
                 "en": "kenya",
                 "hu": "kenya",
@@ -380,7 +380,7 @@
         },
         "ls": {
             "name": "lesotho",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Lesotho.svg/1920px-Flag_of_Lesotho.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/flag_of_lesotho.svg/1920px-flag_of_lesotho.svg.png",
             "name_translations": {
                 "en": "lesotho",
                 "hu": "lesotho",
@@ -394,7 +394,7 @@
         },
         "lr": {
             "name": "liberia",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/1920px-Flag_of_Liberia.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/flag_of_liberia.svg/1920px-flag_of_liberia.svg.png",
             "name_translations": {
                 "en": "liberia",
                 "hu": "liberia",
@@ -408,7 +408,7 @@
         },
         "ly": {
             "name": "libya",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Libya.svg/1920px-Flag_of_Libya.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/flag_of_libya.svg/1920px-flag_of_libya.svg.png",
             "name_translations": {
                 "en": "libya",
                 "hu": "libia",
@@ -422,7 +422,7 @@
         },
         "mg": {
             "name": "madagascar",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/1920px-Flag_of_Madagascar.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/flag_of_madagascar.svg/1920px-flag_of_madagascar.svg.png",
             "name_translations": {
                 "en": "madagascar",
                 "hu": "madagaszkar",
@@ -436,7 +436,7 @@
         },
         "mw": {
             "name": "malawi",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Malawi.svg/1920px-Flag_of_Malawi.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/flag_of_malawi.svg/1920px-flag_of_malawi.svg.png",
             "name_translations": {
                 "en": "malawi",
                 "hu": "malawi",
@@ -450,7 +450,7 @@
         },
         "ml": {
             "name": "mali",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1920px-Flag_of_Mali.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/flag_of_mali.svg/1920px-flag_of_mali.svg.png",
             "name_translations": {
                 "en": "mali",
                 "hu": "mali",
@@ -464,7 +464,7 @@
         },
         "mr": {
             "name": "mauritania",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Mauritania.svg/1920px-Flag_of_Mauritania.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/flag_of_mauritania.svg/1920px-flag_of_mauritania.svg.png",
             "name_translations": {
                 "en": "mauritania",
                 "hu": "mauritania",
@@ -478,7 +478,7 @@
         },
         "mu": {
             "name": "mauritius",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/1920px-Flag_of_Mauritius.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/flag_of_mauritius.svg/1920px-flag_of_mauritius.svg.png",
             "name_translations": {
                 "en": "mauritius",
                 "hu": "mauriciusz",
@@ -492,7 +492,7 @@
         },
         "yt": {
             "name": "mayotte",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Mayotte.svg/1920px-Flag_of_Mayotte.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/flag_of_mayotte.svg/1920px-flag_of_mayotte.svg.png",
             "name_translations": {
                 "en": "mayotte",
                 "hu": "mayotte",
@@ -506,7 +506,7 @@
         },
         "na": {
             "name": "namibia",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1920px-Flag_of_Namibia.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/flag_of_namibia.svg/1920px-flag_of_namibia.svg.png",
             "name_translations": {
                 "en": "namibia",
                 "hu": "namibia",
@@ -520,7 +520,7 @@
         },
         "ne": {
             "name": "niger",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/1920px-Flag_of_Niger.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/flag_of_niger.svg/1920px-flag_of_niger.svg.png",
             "name_translations": {
                 "en": "niger",
                 "hu": "niger",
@@ -534,7 +534,7 @@
         },
         "ng": {
             "name": "nigeria",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Flag_of_Nigeria.svg/1920px-Flag_of_Nigeria.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/flag_of_nigeria.svg/1920px-flag_of_nigeria.svg.png",
             "name_translations": {
                 "en": "nigeria",
                 "hu": "nigeria",
@@ -548,7 +548,7 @@
         },
         "rw": {
             "name": "rwanda",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1920px-Flag_of_Rwanda.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/flag_of_rwanda.svg/1920px-flag_of_rwanda.svg.png",
             "name_translations": {
                 "en": "rwanda",
                 "hu": "ruanda",
@@ -562,7 +562,7 @@
         },
         "st": {
             "name": "sao tome and principe",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Sao_Tome_And_Principe.svg/1920px-Flag_of_Sao_Tome_And_Principe.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/flag_of_sao_tome_and_principe.svg/1920px-flag_of_sao_tome_and_principe.svg.png",
             "name_translations": {
                 "en": "sao tome and principe",
                 "hu": "sao tome es principe",
@@ -576,7 +576,7 @@
         },
         "sn": {
             "name": "senegal",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1920px-Flag_of_Senegal.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/flag_of_senegal.svg/1920px-flag_of_senegal.svg.png",
             "name_translations": {
                 "en": "senegal",
                 "hu": "szenegal",
@@ -590,7 +590,7 @@
         },
         "sc": {
             "name": "seychelles",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/1920px-Flag_of_Seychelles.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/flag_of_seychelles.svg/1920px-flag_of_seychelles.svg.png",
             "name_translations": {
                 "en": "seychelles",
                 "hu": "seychelle-szigetek",
@@ -604,7 +604,7 @@
         },
         "sl": {
             "name": "sierra leone",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Sierra_Leone.svg/1920px-Flag_of_Sierra_Leone.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/flag_of_sierra_leone.svg/1920px-flag_of_sierra_leone.svg.png",
             "name_translations": {
                 "en": "sierra leone",
                 "hu": "sierra leone",
@@ -618,7 +618,7 @@
         },
         "so": {
             "name": "somalia",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/1920px-Flag_of_Somalia.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/flag_of_somalia.svg/1920px-flag_of_somalia.svg.png",
             "name_translations": {
                 "en": "somalia",
                 "hu": "szomalia",
@@ -632,7 +632,7 @@
         },
         "za": {
             "name": "south africa",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_South_Africa.svg/1920px-Flag_of_South_Africa.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/flag_of_south_africa.svg/1920px-flag_of_south_africa.svg.png",
             "name_translations": {
                 "en": "south africa",
                 "hu": "del-afrika",
@@ -646,7 +646,7 @@
         },
         "ss": {
             "name": "south sudan",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flag_of_South_Sudan.svg/1920px-Flag_of_South_Sudan.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/flag_of_south_sudan.svg/1920px-flag_of_south_sudan.svg.png",
             "name_translations": {
                 "en": "south sudan",
                 "hu": "del-szudan",
@@ -660,7 +660,7 @@
         },
         "sd": {
             "name": "sudan",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/1920px-Flag_of_Sudan.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/flag_of_sudan.svg/1920px-flag_of_sudan.svg.png",
             "name_translations": {
                 "en": "sudan",
                 "hu": "szudan",
@@ -674,7 +674,7 @@
         },
         "tz": {
             "name": "tanzania",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Flag_of_Tanzania.svg/1920px-Flag_of_Tanzania.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/flag_of_tanzania.svg/1920px-flag_of_tanzania.svg.png",
             "name_translations": {
                 "en": "tanzania",
                 "hu": "tanzania",
@@ -688,7 +688,7 @@
         },
         "tg": {
             "name": "togo",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1920px-Flag_of_Togo.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/flag_of_togo.svg/1920px-flag_of_togo.svg.png",
             "name_translations": {
                 "en": "togo",
                 "hu": "togo",
@@ -702,7 +702,7 @@
         },
         "ug": {
             "name": "uganda",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Uganda.svg/1920px-Flag_of_Uganda.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/flag_of_uganda.svg/1920px-flag_of_uganda.svg.png",
             "name_translations": {
                 "en": "uganda",
                 "hu": "uganda",
@@ -716,7 +716,7 @@
         },
         "zm": {
             "name": "zambia",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1920px-Flag_of_Zambia.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/flag_of_zambia.svg/1920px-flag_of_zambia.svg.png",
             "name_translations": {
                 "en": "zambia",
                 "hu": "zambia",
@@ -730,7 +730,7 @@
         },
         "zw": {
             "name": "zimbabwe",
-            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1920px-Flag_of_Zimbabwe.svg.png",
+            "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/flag_of_zimbabwe.svg/1920px-flag_of_zimbabwe.svg.png",
             "name_translations": {
                 "en": "zimbabwe",
                 "hu": "zimbabve",
